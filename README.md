@@ -1,1 +1,1 @@
-# Static-website-S3-
+# Static-website (S3)

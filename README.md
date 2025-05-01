@@ -120,6 +120,8 @@ This project demonstrates how to host a static website using **Amazon S3**. It i
     }
     ]
     }
+
+   ![image alt](https://github.com/Juniorklb/Static-website-S3-/blob/ea4bba780a589528d70209127eb0cb6b1767d8cc/images/buckets.PNG)
 - 🔁Important: Replace ``your-bucket-name`` with your actual bucket name.
 
 - Click “Save changes”.

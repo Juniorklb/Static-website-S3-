@@ -125,10 +125,13 @@ This project demonstrates how to host a static website using **Amazon S3**. It i
 - Click “Save changes”.
 
 -  Now, your static site should be publicly viewable via the website endpoint URL from Step 3.
+  
+  ![image alt](https://github.com/Juniorklb/Static-website-S3-/blob/ad3497387d37fda38ac88478513ac8654ea7dd47/images/s3static%20website.PNG)
 
 ## Conclusion: AWS Static Website Hosting with S3
 You've successfully created and deployed a static website on AWS using S3 — congratulations! 🎉 Here's what you accomplished: 
 #### 🔧 Steps You Completed
+
 - Created an S3 Bucket with public access
 
 - Uploaded your website files (index.html, styles.css, etc.)

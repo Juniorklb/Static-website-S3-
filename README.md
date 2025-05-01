@@ -1,7 +1,7 @@
 #  🌐 AWS S3 Static Website Hosting
 
 ![AWS](https://img.shields.io/badge/Built%20with-AWS-orange?style=flat&logo=amazonaws)
-![Project Status](https://img.shields.io/badge/status-in--progress-yellow)
+![Project Status](https://img.shields.io/badge/status-finished-green)
 
 
 This project demonstrates how to host a static website using **Amazon S3**. It includes steps to upload HTML, CSS, and JavaScript files to an S3 bucket and configure it for public web access.

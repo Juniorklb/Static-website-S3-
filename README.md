@@ -57,12 +57,13 @@ This project demonstrates how to host a static website using **Amazon S3**. It i
 | **Bucket name**        | `your-static-website-name` (must be globally unique)                                 |
 | **AWS Region**         | Choose your preferred region                                                         |
 | **Block Public Access**| **Uncheck** “Block all public access” ⚠️                                             |
-|                        | ✅ Acknowledge the warning that your bucket will be public                           |
+|                        |  Acknowledge the warning that your bucket will be public                           |
 | **Bucket versioning**  | Leave as default (Disabled)                                                          |
 | **Tags**               | Optional                                                                             |
 | **Encryption**         | Leave as default (Disabled or S3-managed key)                                        |
 | **Advanced settings**  | Leave as default                                                                     |
 
-
+- Click Create bucket at the bottom.
+  
 ## 📚 Author
 Built with ☁️ by [Junior Kalomba]

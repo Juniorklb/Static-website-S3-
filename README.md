@@ -143,3 +143,4 @@ You've successfully created and deployed a static website on AWS using S3 — co
 
 ## 📚 Author
 ![AWS](https://img.shields.io/badge/Built%20with-AWS-orange?style=flat&logo=amazonaws) by Junior Kalomba
+**🔗 Feel free to contribute or suggest improvements!**

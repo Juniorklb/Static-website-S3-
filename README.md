@@ -64,6 +64,19 @@ This project demonstrates how to host a static website using **Amazon S3**. It i
 | **Advanced settings**  | Leave as default                                                                     |
 
 - Click Create bucket at the bottom.
-  
+  Open the S3 bucket you created.
+
+- Click “Upload”.
+
+- Click “Add files” and select:
+
+    - `index.html`
+
+    - `styles.css`
+    - (Optional) `script.js`
+    - Click Upload.
+- Click Next through the options (you don’t need to change permissions here, we’ll set public access via a bucket policy next).
+
+ ## Step 2: Upload Your Website Files 
 ## 📚 Author
 Built with ☁️ by [Junior Kalomba]

@@ -37,3 +37,32 @@ This project demonstrates how to host a static website using **Amazon S3**. It i
 
 ## 🗂️ Project Structure
 
+     aws-s3-static-website/ │
+     ├── index.html # Main landing page 
+     ├── styles.css # Stylesheet for the website 
+     ├── script.js # (Optional) JavaScript functionality 
+     └── README.md # Project documentation
+
+
+## Step 1: Create an S3 Bucket ( In the AWS Console)
+
+- In the AWS console, go to the S3 Dashboard
+
+- Click Create bucket
+
+### 🪣 Bucket Settings  
+
+| Setting                | Value / Instructions                                                                 |
+|------------------------|---------------------------------------------------------------------------------------|
+| **Bucket name**        | `your-static-website-name` (must be globally unique)                                 |
+| **AWS Region**         | Choose your preferred region                                                         |
+| **Block Public Access**| **Uncheck** “Block all public access” ⚠️                                             |
+|                        | ✅ Acknowledge the warning that your bucket will be public                           |
+| **Bucket versioning**  | Leave as default (Disabled)                                                          |
+| **Tags**               | Optional                                                                             |
+| **Encryption**         | Leave as default (Disabled or S3-managed key)                                        |
+| **Advanced settings**  | Leave as default                                                                     |
+
+
+## 📚 Author
+Built with ☁️ by [Junior Kalomba]

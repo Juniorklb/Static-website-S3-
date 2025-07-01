@@ -33,17 +33,6 @@ This project demonstrates how to host a static website using **Amazon S3**. It i
 4. **Access your site**
    - Use the S3 website endpoint provided in the bucket settings
 
----
-
-## 🗂️ Project Structure
-
-     aws-s3-static-website/ │
-     ├── index.html # Main landing page 
-     ├── styles.css # Stylesheet for the website 
-     ├── script.js # (Optional) JavaScript functionality 
-     └── README.md # Project documentation
-
-
 ## Step 1: Create an S3 Bucket ( In the AWS Console)
 
 - In the AWS console, go to the S3 Dashboard
